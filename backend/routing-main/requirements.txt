@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+requests
+geojson
+python-dotenv
+shapely
+gunicorn

@@ -1,0 +1,6 @@
+{
+  "drivers": [
+    {"id": "d1", "name": "Ravi", "status": "ON_TRIP", "lat": 12.97, "lng": 77.59},
+    {"id": "d2", "name": "Amit", "status": "AVAILABLE", "lat": 12.93, "lng": 77.60}
+  ]
+}

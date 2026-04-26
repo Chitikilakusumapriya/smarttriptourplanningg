@@ -1,0 +1,6 @@
+{
+  "notifications": [
+    {"id": "n1", "message": "Trip started successfully", "type": "Info"},
+    {"id": "n2", "message": "You are approaching next stop", "type": "Reminder"}
+  ]
+}

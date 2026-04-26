@@ -1,0 +1,8 @@
+import os
+
+class Config:
+    SQLALCHEMY_DATABASE_URI = os.getenv(
+        "DATABASE_URL",
+        "postgresql://postgres:2745@localhost:5432/vehicledb"
+    )
+    SQLALCHEMY_TRACK_MODIFICATIONS = False

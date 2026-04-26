@@ -1,0 +1,14 @@
+{
+  "trips": [
+    {
+      "tripId": "T001",
+      "driver": "Ravi",
+      "route": [
+        {"stop": "Start - Bangalore", "lat": 12.9716, "lng": 77.5946},
+        {"stop": "Mysore Palace", "lat": 12.3051, "lng": 76.6552},
+        {"stop": "Brindavan Gardens", "lat": 12.421, "lng": 76.575}
+      ],
+      "status": "PLANNED"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "alerts": [
+    {"id": "a1", "type": "Off Route", "driver": "Ravi", "trip": "T001", "time": "10:42 AM"},
+    {"id": "a2", "type": "Over Speed", "driver": "Ravi", "trip": "T001", "time": "10:48 AM"}
+  ]
+}
